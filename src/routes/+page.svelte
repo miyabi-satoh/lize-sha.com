@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div class="flex h-screen w-full flex-col items-center justify-center font-mono">
+	<h1 class="mb-4 text-2xl">LIZE SHA</h1>
+	<p class="text-lg">Now Loading...</p>
+</div>
